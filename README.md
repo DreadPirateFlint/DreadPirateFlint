@@ -1,16 +1,23 @@
-## Hi there 👋
+# Kurt Overberg
 
-<!--
-**DreadPirateFlint/DreadPirateFlint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering leader and hands-on builder focused on practical software, automation, and AI-enabled tools.
 
-Here are some ideas to get you started:
+I work best where product judgment, technical execution, and clear communication all matter: turning ambiguous problems into useful systems, improving developer workflows, and helping teams ship maintainable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Public Work
+- [`What Have You Done?!`](https://www.whyd.io) - Leading time-tracking system aimed primarily at creative types
+  
+
+- [`WHYD CLI`](https://github.com/DreadPirateFlint/whyd) — Python CLI for What Have You Done?! time tracking, with shell completion and terminal reporting.
+
+## Focus Areas
+
+- Engineering leadership and delivery
+- Security, AI correctness
+- Python, automation, and internal tooling
+- AI-assisted workflows and developer productivity
+- Product-minded technical consulting
+
+## Contact
+
+- GitHub: [@DreadPirateFlint](https://github.com/DreadPirateFlint)
