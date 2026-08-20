@@ -13,7 +13,7 @@ I work best where product judgment, technical execution, and clear communication
 ## Focus Areas
 
 - Engineering leadership and delivery
-- Security, AI correctness
+- Security minded AI systems and correctness
 - Python, automation, and internal tooling
 - AI-assisted workflows and developer productivity
 - Product-minded technical consulting
