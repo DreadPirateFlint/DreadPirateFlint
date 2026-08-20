@@ -16,7 +16,7 @@ Note on my username/handle: this GitHub account dates back to 2012, when joke us
 ## Focus Areas
 
 - Engineering leadership and delivery
-- Security minded AI systems and correctness
+- Security-minded AI systems and correctness
 - Python, automation, and internal tooling
 - AI-assisted workflows and developer productivity
 - Product-minded technical consulting
