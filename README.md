@@ -4,6 +4,9 @@ Engineering leader and hands-on builder focused on practical software, automatio
 
 I work best where product judgment, technical execution, and clear communication all matter: turning ambiguous problems into useful systems, improving developer workflows, and helping teams ship maintainable software.
 
+Note on my username/handle: this GitHub account dates back to 2012, when joke usernames felt more permanent than they should have. The code is serious; the pirate branding is historical.  I am not actually a pirate.
+
+
 ## Public Work
 - [`What Have You Done?!`](https://www.whyd.io) - Leading time-tracking system aimed primarily at creative types
   
